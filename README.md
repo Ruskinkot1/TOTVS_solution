@@ -17,8 +17,8 @@ This was achieved by using Gradient Boosting classifier from sklearn package
 
 Question 4
 Dataset contains many categorial variables with simple encoding. So, application of logistic regression and knn algorithms failed to make predictive models.
-Practically, tree algoritms (as decision trees, random forest and Gradient Boosting) showed their efficiency with so-called "dummy encoded" variables.  Also tree-containing algoritms have at least 2 tunable hyperparameters. 
+Practically, tree algorithms (as decision trees, random forest and Gradient Boosting) showed their efficiency with so-called "dummy encoded" variables.  Also tree-containing algoritms have at least 2 tunable hyperparameters. 
 We choosed maximum tree depth and leaf nodes to tune. 
 
-If I had more time, I would continue tuning of hyperparameters in GBC algoritm. But I also need more data :)
+If I had more time, I would continue tuning of hyperparameters in GBC algorithm. But I also need more data :)
 
