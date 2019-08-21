@@ -4,7 +4,7 @@ churn prediction using  simple sklearn algorithms
 My answers to questions:
 Question 1
 1) Predicting customer churn using suprevised learning algoritms - seems to be the main purpose of this dataset
-2) Customer segmentation by and LTV analysis 
+2) Customer segmentation and LTV analysis 
 3) Segmentation of sellers by unit price/total price/quantity/loyality
 
 Question 2
