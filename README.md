@@ -20,5 +20,5 @@ Dataset contains many categorial variables with simple encoding. So, application
 Practically, tree alghoritms (as decision trees, random forest and Gradient Boosting) showed their efficiency with so-called "dummy encoded" variables.  Also tree-containg algoritms has at least 2 tunable hyperparameters. 
 We choosed maximum tree depth and leaf nodes to tune. 
 
-If i had more time i would contitue tuning of hyperparameters in GBC algoritm. But I also need more data :)
+If i had more time i would continue tuning of hyperparameters in GBC algoritm. But I also need more data :)
 
